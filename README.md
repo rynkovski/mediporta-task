@@ -36,7 +36,7 @@ The user interface of the tag browser provided by the StackOverflow API prepared
 ### Built With
 
 - [React](https://react.dev/)
-- [TypeScript](<(https://www.typescriptlang.org/)>)
+- [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 - [shadcn/ui](https://ui.shadcn.com/)
