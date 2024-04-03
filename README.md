@@ -30,6 +30,7 @@
 ![Recruitment Task](./public/screenshot.jpeg)
 
 The user interface of the tag browser provided by the StackOverflow API prepared in React.
+[Live demo]((https://mediporta-task-beta.vercel.app/?pageNumber=2&pageSize=10&order=desc&sort=&name=))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,6 +82,6 @@ To get a local copy up and running follow these simple steps.
 
 [@rynkovski](https://github.com/rynkovski)
 
-[Project Link](https://github.com/rynkovski/mediporta-task)
+[Live demo]((https://mediporta-task-beta.vercel.app/?pageNumber=2&pageSize=10&order=desc&sort=&name=))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
