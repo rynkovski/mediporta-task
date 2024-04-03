@@ -27,7 +27,7 @@
 
 ## About The Project
 
-[Recruitment Task](./public/screenshot.jpeg)
+![Recruitment Task](./public/screenshot.jpeg)
 
 The user interface of the tag browser provided by the StackOverflow API prepared in React.
 
