@@ -21,14 +21,13 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 ## About The Project
 
-[![Recruitment Task](./public/screenshot.jpeg)]
+[Recruitment Task](./public/screenshot.jpeg)
 
 The user interface of the tag browser provided by the StackOverflow API prepared in React.
 
@@ -36,14 +35,14 @@ The user interface of the tag browser provided by the StackOverflow API prepared
 
 ### Built With
 
-- [![React][React.js]][(https://react.dev/)]
-- [![TypeScript][TypeScript]][((https://www.typescriptlang.org/))]
-- [![TailwindCSS][TailwindCSS]][(https://tailwindcss.com/)]
-- [![Vite][Vite]][(https://vitejs.dev/)]
-- [![shadcn/ui][shadcn/ui]][(https://ui.shadcn.com/)]
-- [![Tanstack Query][Tanstack Query]][(https://tanstack.com/query/latest)]
-- [![React Router][React Router]][(https://reactrouter.com/en/main)]
-- [![Axios][Axios]][(https://axios-http.com/)]
+- [React](https://react.dev/)
+- [TypeScript](<(https://www.typescriptlang.org/)>)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Tanstack Query](https://tanstack.com/query/latest)
+- [React Router](https://reactrouter.com/en/main)
+- [Axios](https://axios-http.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,8 +79,8 @@ To get a local copy up and running follow these simple steps.
 
 ## Contact
 
-Your Name - [@rynkovski](https://github.com/rynkovski)
+[@rynkovski](https://github.com/rynkovski)
 
-Project Link: (https://github.com/rynkovski/mediporta-task)
+[Project Link](https://github.com/rynkovski/mediporta-task)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
