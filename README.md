@@ -31,6 +31,8 @@
 
 The user interface of the tag browser provided by the StackOverflow API prepared in React.
 
+[Live demo](https://mediporta-task-beta.vercel.app/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -80,7 +82,5 @@ To get a local copy up and running follow these simple steps.
 ## Contact
 
 [@rynkovski](https://github.com/rynkovski)
-
-[Project Link](https://github.com/rynkovski/mediporta-task)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
