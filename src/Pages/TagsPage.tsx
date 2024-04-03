@@ -56,6 +56,10 @@ export default function TagsPage() {
   }, [page, pageSize, order, sort, name]);
 
   useEffect(() => {
+    setPage(1);
+  }, [order, sort, name]);
+
+  useEffect(() => {
     refetchTags({ page, pageSize, order, sort, name } as RefetchOptions);
   }, [page, pageSize, order, sort, name]);
 
