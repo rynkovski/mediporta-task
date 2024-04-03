@@ -3,6 +3,8 @@
 
 <h3 align="center">React Recruitment Task</h3>
 
+[Live demo](https://mediporta-task-beta.vercel.app/)
+
 </div>
 
 <details>
